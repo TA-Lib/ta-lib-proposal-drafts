@@ -1,6 +1,8 @@
 # ta-lib-proposal-drafts
-You want a new TA function? Open an issues here for discussion.
+You want someone else to add a new TA function to TA-Lib? 
 
-Well-documented function (with sampling of input/output) have a greater chance to be implemented.
+... then open an issues here for discussion.
+
+Well-documented functions (with sampling of input/output) have a greater chance to be implemented.
 
 The issue will be transfered to the **TA-Lib Core** repos only after the function is agreed to be implemented by a contributor.
